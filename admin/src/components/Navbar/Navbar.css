@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+    background-color: white; /* Optional: add a background color */
+    color: black; /* Optional: set text color to white */
+  }
+  
+  .navbar .logo {
+    width: max(10%, 80px);
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar .admin-panel {
+    margin-right: 16px; /* Add some space between the Admin Panel and the profile image */
+    font-size: 16px; /* Optional: adjust the font size */
+    font-weight: bold; /* Optional: make the text bold */
+  }
+  
+  .navbar .profile {
+    width: 60px;
+    border-radius: 50%; /* Optional: make the profile image circular */
+  }
+  

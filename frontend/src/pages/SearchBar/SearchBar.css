@@ -1,0 +1,14 @@
+.search-icon {
+    cursor: pointer;
+  }
+  
+  .search-bar {
+    display: none;
+    /* Add your styling for the search bar */
+  }
+  
+  .search-bar.active {
+    display: block;
+    /* Add your styling for the visible search bar */
+  }
+  
