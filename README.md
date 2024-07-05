@@ -11,3 +11,5 @@ Frontend Development: Leveraged React.js to create a responsive and engaging use
 Backend Infrastructure: Utilized Node.js and Express.js to build robust APIs and handle server-side logic, ensuring data integrity and efficient communication between the frontend and MongoDB database.
 
 Payment Integration: Integrated Stripe to facilitate secure and reliable payment processing, meeting industry standards for transaction security and user trust.
+
+
